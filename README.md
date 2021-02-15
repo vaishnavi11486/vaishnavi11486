@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on programming
-- 🌱 I’m currently learning progremming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on present no one
+- 🤔 I’m looking for help with learning
 - 💬 Ask me about things i know
-- 📫 How to reach me: email
+- 📫 How to reach me: vaishnavikb45@gmail.com
 - 😄 Pronouns: jokes
-- ⚡ Fun fact: chai
+- ⚡ Fun fact: Humans are only animals that blush
 -->
